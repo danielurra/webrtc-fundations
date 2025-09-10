@@ -1,6 +1,6 @@
 ## Project Overview
 
-This is a real-time chat application built with Node.js, Express, and Socket.io. The application consists of a simple WebSocket server and a client-side interface for real-time messaging.
+This is a real-time chat application built with <b>Node.js, Express, and Socket.io</b>. The application consists of a simple WebSocket server and a client-side interface for real-time messaging.
 
 ## Development Commands
 
