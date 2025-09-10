@@ -5,12 +5,20 @@ var button = document.getElementById('send');
 var username = document.getElementById('username');
 var output = document.getElementById('output');
 
-button.addEventListener('click', () => {
+function sendMessage() {
   socket.emit('sendingmessage', {
     message: message.value,
     username: username.value,
   });
   message.value = '';
+}
+
+button.addEventListener('click', sendMessage);
+
+message.addEventListener('keypress', (e) => {
+  if (e.key === 'Enter') {
+    sendMessage();
+  }
 });
 
 socket.on('broadcastmessage', (data) => {
