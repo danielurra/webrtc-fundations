@@ -47,5 +47,5 @@ The project follows a simple client-server architecture:
 
 ## Continuation
   Take a look at this repo to find the next evolution of this project, LAN implementation:<br>
-  [WebRTC Intermediate Repository](https://github.com/danielurra/webrtc-intermediate)
+  [WebRTC Intermediate Repository](https://github.com/danielurra/chat.nginx.encasa)
 
