@@ -44,3 +44,8 @@ The project follows a simple client-server architecture:
 - Client JavaScript contains hardcoded server URL (`http://localhost:4000`)
 - Messages are not persisted - only real-time broadcasting between connected clients
 - Dark theme UI with max-width 600px and scrollable chat window (400px height)
+
+  ## Continuation
+  Take a look at this repo to find the next evolution of this project, LAN implementation:<br>
+  [WebRTC Intermediate Repository](https://github.com/danielurra/webrtc-intermediate)
+
