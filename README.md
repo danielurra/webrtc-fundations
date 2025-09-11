@@ -1,3 +1,4 @@
+<img width="1739" height="914" alt="image" src="https://github.com/user-attachments/assets/7bc030e7-bd47-44fd-8eb4-b603429c500d" /><br>
 ## Project Overview
 
 This is a real-time chat application built with <b>Node.js, Express</b>, and <b>Socket.io</b>. The application consists of a simple WebSocket server and a client-side interface for real-time messaging.
